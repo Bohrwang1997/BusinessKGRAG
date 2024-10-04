@@ -46,6 +46,6 @@ The models will be built using T5-small, with iterative improvements through fea
 - Prototyping: The RAG and KG RAG models will be built iteratively, ensuring performance improvements.
 - Client Collaboration: Regular updates and feedback sessions with Navitas will guide the project.
 
-##Contact
+## Contact
 
 - Project Lead: Yiren Wang
